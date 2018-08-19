@@ -8,4 +8,6 @@ golconda
 charminar
 tankbund
 
+kphb
+nizampet
 end
