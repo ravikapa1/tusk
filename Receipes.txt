@@ -8,5 +8,7 @@ golconda
 charminar
 tankbund
 
+kphb
+nizampet
 end
 final copy
